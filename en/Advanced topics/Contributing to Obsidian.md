@@ -12,7 +12,7 @@ If you'd like to use Obsidian for work activities, try to let your work get you 
 
 If you'd like to make a website from your notes, consider getting [[Obsidian Publish]] if the price works for you.
 
-If you're interested in an end-to-end encryption syncing solution, we'll also be rolling out our Obsidian Sync soon, stay tuned!
+If you're interested in an end-to-end encryption syncing solution, we also offer [[Obsidian Sync]]. In addition to end-to-end encryption, Obsidian Sync also comes with version history.
 
 #### Catalyst
 
@@ -38,11 +38,11 @@ If you're a JavaScript/TypeScript programmer, you can write [[Third-party plugin
 
 #### Translating the interface
 
-If you know another language (preferably natively), you can help with translating the Obsidian interface into your language. You an do that by submitting a pull request in [our translation GitHub repository](https://github.com/obsidianmd/obsidian-translations) to get it into the next version of the app.
+If you know another language (preferably natively), you can help with translating the Obsidian interface into your language. You can do that by submitting a pull request in [our translation GitHub repository](https://github.com/obsidianmd/obsidian-translations) to get it into the next version of the app.
 
 #### Translating the docs
 
-We're in the middle of reorganizing and stabilizing the documentation you're reading right now, once it's in a good shape, you can also help translate it, so that people who doesn't know English can also easily learn to use Obsidian.
+We're in the middle of reorganizing and stabilizing the documentation you're reading right now. Once it's in a good shape, you can also help translate it, so that people who don't know English can also easily learn to use Obsidian.
 
 #### Found a typo?
 
